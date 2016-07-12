@@ -14,7 +14,10 @@ Este programa te alla
     -Dinero con que cuenta el ISUR en (soles)
     -Gastos
 
+5)Reporte de total de Creditos que es por semestre y mostrar por pantalla cuantos creditos
+cuenta el alumno segun para ello poder matricularse en una cierta cantidad de cursos.
 
+6)
 
 
 """
